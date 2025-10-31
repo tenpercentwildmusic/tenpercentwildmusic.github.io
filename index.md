@@ -8,3 +8,4 @@ title: Home
 This is the site of the band TenPercent.
 
 - [About](/about.html)
+- [Relax, DAMMIT](/relaxdammit.html)
