@@ -1,3 +1,3 @@
 # tenpercentwildmusic.github.io
 
-Minimal starter Jekyll site.
+The site for the band TenPercent
