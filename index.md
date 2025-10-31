@@ -15,5 +15,9 @@ TenPercent is currently working on their second album, called "Relax, DAMMIT", w
 
 If you want to stay updated or get in touch, send messages in a bottle or mail pigeons. Also, using Instagram could be an option: [@tenpercentwildmusic](https://www.instagram.com/tenpercentwildmusic/)
 
+
+Read more about the band concept here:
 - [About](/about.html)
+
+Or read about the ideas behind the new album here:
 - [Relax, DAMMIT](/relaxdammit.html)
