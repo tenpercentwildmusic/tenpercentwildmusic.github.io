@@ -9,7 +9,9 @@ TenPercent is a creative collective of artists defying gravity and definition. O
 
 The music relates to fiction, the fiction relates to characters, the characters turn into music.
 
+&nbsp; 
 
+&nbsp; 
 
 Read more about the band concept here:
 - [About](/about.html)
@@ -17,8 +19,11 @@ Read more about the band concept here:
 Or read about the ideas behind the new album here:
 - [Relax, DAMMIT](/relaxdammit.html)
 
+&nbsp; 
 
-If you want to stay updated or get in touch, send messages in a bottle or mail pigeons. Also, using Instagram could be an option: [@tenpercentwildmusic](https://www.instagram.com/tenpercentwildmusic/)
+&nbsp; 
+
+If you want to stay updated or get in touch, send messages in a bottle or mail pigeons. Also, using Instagram could be an option: <a href="https://www.instagram.com/tenpercentwildmusic/" target="_blank">@tenpercentwildmusic</a>
 
 
 
