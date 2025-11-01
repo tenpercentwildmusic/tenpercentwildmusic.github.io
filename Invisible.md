@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Relax, DAMMIT
+title: Home
 ---
 
 # Invisible
