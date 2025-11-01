@@ -7,10 +7,13 @@ title: Relax, DAMMIT
 
 The concept for "Relax, dammit" had been evolving for years, but the phrase itself was born during a COVID-era call with a friend who owns a yoga studio.
 &nbsp;
+
 When I asked how she was managing financially, she admitted, "Not very good, to be honest. But I have enough for food, at least."
 &nbsp;
+
 Shocked, I asked, "Is it that bad?"
 &nbsp;
+
 "Yes," she replied. "Usually, my sessions are full, but nowadays... no one wants to relax, dammit."
 &nbsp;
 
