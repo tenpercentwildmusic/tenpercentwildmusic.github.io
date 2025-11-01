@@ -7,7 +7,9 @@ title: Home
 
 TenPercent is a creative collective of artists defying gravity and definition. Or they're trying to. It's a pursuit that needs no purpose.
 
-The music relates to fiction, the fiction relates to characters, the characters relate to music.
+The music relates to fiction, the fiction relates to characters, the characters turn into music.
+
+
 
 Read more about the band concept here:
 - [About](/about.html)
