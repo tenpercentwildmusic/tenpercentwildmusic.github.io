@@ -5,6 +5,9 @@ title: Relax, DAMMIT
 
 # Relax, DAMMIT! album
 
+&nbsp;
+
+
 The concept for "Relax, dammit" had been evolving for years, but the phrase itself was born during a COVID-era call with a friend who owns a yoga studio.
 &nbsp;
 
@@ -19,9 +22,6 @@ Shocked, I asked, "Is it that bad?"
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
 
 ---
 
