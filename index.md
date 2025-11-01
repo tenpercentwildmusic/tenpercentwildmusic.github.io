@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-TenPercent is a creative collective of artists defying gravity and definition. Or they're trying to. It's a pursuit that needs no purpose.
+TenPercent is a creative collective of artists defying gravity and avoiding definition. Or they're trying to. It's a pursuit that needs no purpose.
 
 The music relates to fiction, the fiction relates to characters, the characters turn into music.
 
