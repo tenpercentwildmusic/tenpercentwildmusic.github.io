@@ -9,6 +9,8 @@ As the home page mentioned, TenPercent is a collective of artists defying gravit
 
 The music relates to fiction, the fiction relates to characters, the characters relate to music. It is a whirlwind, a whirlpool, an abyss, a tumbleweed...
 
+&nbsp;
+
 
 The collective's first album "The Way I See You" ([Spotify](https://open.spotify.com/album/7tbjDXyDb9xRLqWtjED6ae?si=AFJ4-jH6SEWEULfsOhJQKQ) [Youtube](https://www.youtube.com/channel/UCe8uJ8n_Tm1koaYPvT5ARVA)) dropped on December 11th, 2024, and the world didn't exactly tremble. Its few monthly listeners were mostly the result of diligent campaigning among friends, neighbors, parents, and the obliging family pets.
 
