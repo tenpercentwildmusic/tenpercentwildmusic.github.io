@@ -5,7 +5,7 @@ title: About
 
 # About
 
-As the home page mentioned, TenPercent is a creative collective of artists defying gravity and definition. Or they're trying to. It's a pursuit that needs no purpose.
+As the home page mentioned, TenPercent is a creative collective of artists defying gravity and avoiding definition. Or they're trying to. It's a pursuit that needs no purpose.
 
 The music relates to fiction, the fiction relates to characters, the characters relate to music. It is a whirlwind, a whirlpool, an abyss, a tumbleweed...
 
