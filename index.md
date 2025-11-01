@@ -17,7 +17,7 @@ Read more about the band concept here:
 - [About](/about.html)
 
 Or read about the ideas behind the new album here:
-- [Relax, DAMMIT](/relaxdammit.html)
+- [Relax, DAMMIT](/relaxdammit.md)
 
 &nbsp; 
 
