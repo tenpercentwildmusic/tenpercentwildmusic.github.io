@@ -14,7 +14,7 @@ The music relates to fiction, the fiction relates to characters, the characters 
 &nbsp; 
 
 Read more about the band concept here:
-- [About](/about.md)
+- [About](/about.html)
 
 Or read about the ideas behind the new album here:
 - [Relax, DAMMIT](/relaxdammit.md)
